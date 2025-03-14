@@ -13,7 +13,7 @@
 /* basic styles */
 body {
     height: 100vh;
-    background: var(--v-dark-blue) url(/images/bg-desktop.png) no-repeat bottom / contain;
+    background: var(--v-dark-blue) url(images/bg-desktop.png) no-repeat bottom / contain;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -134,7 +134,7 @@ body {
 /* for responsive design */
 @media (max-width: 900px) {
     body {
-        background-image: url(/images/bg-mobile.png);
+        background-image: url(images/bg-mobile.png);
         background-size: cover;
     }
     .container >:nth-child(2) {
