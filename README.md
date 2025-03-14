@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/AhmedbahgetCode/Frontend-Mentor-Fylo-data-storage-component)
+- Live Site URL: (https://ahmedbahgetcode.github.io/Frontend-Mentor-Fylo-data-storage-component/)
 
 
 ### Built with
