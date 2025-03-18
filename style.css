@@ -134,8 +134,7 @@ body {
 /* for responsive design */
 @media (max-width: 900px) {
     body {
-        background-image: url(images/bg-mobile.png);
-        background-size: cover;
+        background: url(images/bg-mobile.png) cover;
     }
     .container >:nth-child(2) {
         position: relative;
