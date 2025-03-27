@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/AhmedbahgetCode/Frontend-Mentor-Fylo-data-storage-component)
-- Live Site URL: (https://ahmedbahgetcode.github.io/Frontend-Mentor-Fylo-data-storage-component/)
+- Solution URL: (https://github.com/AhmedbahgetCode/Frontend_Mentor_Fylo_Storage)
+- Live Site URL: (https://ahmedbahgetcode.github.io/Frontend_Mentor_Fylo_Storage/)
 
 
 ### Built with
